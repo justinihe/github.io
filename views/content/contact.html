@@ -1,0 +1,36 @@
+
+<div class="modal fade" id="modalConfirmation" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Confirmation Message</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          <span>Thank You for your message!!</span>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<form class="col" style="width: 28rem;">
+  <h1 class="text-center">Contact Us</h1>
+  <span id="contactInfo"></span>
+  <div class="col my-2">
+    <input type="text" id="fullNameContact" name="fullNameContact" class="form-control" placeholder="Full name" aria-label="Full name" required>
+  </div>
+  <div class="col">
+    <input type="email" name="emailContact" placeholder="Email" class="form-control" id="emailContact" required>
+  </div>
+  <div class="col my-2">
+    <input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" aria-label="Preferred Role" required>
+  </div>
+  <div class="col my-2">
+    <input type="text" name="message" id="message" class="form-control" placeholder="Message" aria-label="Preferred Role" required>
+  </div>
+  <div class="col my-2 w-100">
+    <button type="submit" id="submitMessaage" class="btn btn-primary" data-bs-dismiss="modal">Submit</button>
+  </div>
+</form>

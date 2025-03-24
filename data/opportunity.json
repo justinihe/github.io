@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Community Clean-Up",
+    "description": "Join us in cleaning up local parks and public spaces to make our community beautiful and sustainable.",
+    "datetime": "2025-02-10 09:00:00"
+  },
+  {
+    "title": "Food Drive Assistance",
+    "description": "Help us organize and distribute food donations to families in need.",
+    "datetime": "2025-02-15 13:00:00"
+  },
+  {
+    "title": "Youth Mentorship Program",
+    "description": "Be a mentor to young individuals, guiding them in their education and personal growth.",
+    "datetime": "2025-02-20 17:00:00"
+  },
+  {
+    "title": "Animal Shelter Support",
+    "description": "Assist in caring for animals and helping with adoptions at the local shelter.",
+    "datetime": "2025-02-25 10:00:00"
+  },
+  {
+    "title": "Beach Cleanup",
+    "description": "Help us keep our beaches clean and safe for everyone to enjoy.",
+    "datetime": "2025-03-05 08:00:00"
+  },
+  {
+    "title": "Hospital Volunteer Program",
+    "description": "Provide support to patients and staff by volunteering in non-clinical roles.",
+    "datetime": "2025-03-12 09:00:00"
+  },
+  {
+    "title": "Tree Planting Event",
+    "description": "Join us in planting trees to promote a greener and healthier environment.",
+    "datetime": "2025-03-20 14:00:00"
+  },
+  {
+    "title": "Senior Assistance Program",
+    "description": "Spend time with seniors, helping with daily tasks and providing companionship.",
+    "datetime": "2025-03-28 15:00:00"
+  },
+  {
+    "title": "Fundraising Event Support",
+    "description": "Assist with organizing and running a fundraising event to support local initiatives.",
+    "datetime": "2025-04-02 10:00:00"
+  },
+  {
+    "title": "Library Volunteer Assistance",
+    "description": "Help organize books, run events, and assist visitors at the community library.",
+    "datetime": "2025-04-10 12:00:00"
+  }
+]

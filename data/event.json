@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Charity Walk",
+    "date": "2025-01-26",
+    "category": "Fundraisers"
+  },
+  {
+    "id": 2,
+    "title": "Coding Workshop",
+    "date": "2025-01-27",
+    "category": "Workshops"
+  },
+  {
+    "id": 3,
+    "title": "Beach Cleanup",
+    "date": "2025-01-28",
+    "category": "Cleanups"
+  },
+  {
+    "id": 4,
+    "title": "Art Fundraiser",
+    "date": "2025-01-29",
+    "category": "Fundraisers"
+  },
+  {
+    "id": 5,
+    "title": "Photography Workshop",
+    "date": "2025-01-30",
+    "category": "Workshops"
+  }
+]

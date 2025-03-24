@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Community Clean-Up",
+    "description": "Join us in making our neighborhood cleaner and greener by picking up litter and planting trees.",
+    "image": "https://images.unsplash.com/photo-1525026198548-4baa812f1183?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fENvbW11bml0eSUyMENsZWFuJTIwVXB8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "title": "Food Drive Assistance",
+    "description": "Help collect, sort, and distribute food to families in need at our local food bank.",
+    "image": "https://images.unsplash.com/photo-1584771145729-0bd9fda6529b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Rm9vZCUyMERyaXZlfGVufDB8fDB8fHwy"
+  },
+  {
+    "title": "Animal Shelter Support",
+    "description": "Spend time caring for rescued animals, helping with feeding, and ensuring they have a safe environment.",
+    "image": "https://images.unsplash.com/photo-1594004844563-536a03a6e532?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QW5pbWFsJTIwU2hlbHRlcnxlbnwwfHwwfHx8Mg%3D%3D"
+  },
+  {
+    "title": "Tutoring & Mentorship",
+    "description": "Support underprivileged children by providing tutoring in subjects like math, reading, and science.",
+    "image": "https://images.unsplash.com/photo-1512238972088-8acb84db0771?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VHV0b3JpbmclMjAlMjYlMjBNZW50b3JzaGlwfGVufDB8fDB8fHwy"
+  },
+  {
+    "title": "Elderly Care Visits",
+    "description": "Brighten the day of senior citizens by visiting, chatting, and assisting with daily activities.",
+    "image": "https://images.unsplash.com/photo-1526635090919-b5d79657c5a3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RWxkZXJseSUyMENhcmUlMjBWaXNpdHN8ZW58MHx8MHx8fDI%3D"
+  },
+  {
+    "title": "Environmental Conservation",
+    "description": "Participate in tree planting, beach clean-ups, and other activities to protect our planet.",
+    "image": "https://images.unsplash.com/photo-1727895834088-81764d8b4dcd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fEVudmlyb25tZW50YWwlMjBDb25zZXJ2YXRpb258ZW58MHx8MHx8fDI%3D"
+  }
+]
